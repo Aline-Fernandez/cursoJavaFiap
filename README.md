@@ -1,6 +1,7 @@
 <img src="https://www.alura.com.br/assets/img/podcasts/fiapcast-logo.1750260031.svg" alt="FIAP Logo" width="200px" />
 
-<br>
+
+# ☕ Java Development
 
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=for-the-badge" alt="Status" />
@@ -8,7 +9,7 @@
   <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-# ☕ Java Development
+
 Repositório dedicado aos estudos e projetos desenvolvidos durante o curso **Java Development** da **FIAP**. O foco principal é o domínio da linguagem Java, desde a sintaxe básica até os pilares da Orientação a Objetos.
 
 ---
